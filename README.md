@@ -1,4 +1,4 @@
-![Hi, I'm Deekshita 👋 I'm a 🚀 AR Developer 🚀 I ❤️ C++ coding ❤️](https://github.com/matyo91/matyo91/raw/main/assets/github.gif)
+![Hi, I'm Deekshita 👋 I'm a 🚀 AR Developer 🚀 I ❤️ C++ coding ❤️]
 
 
 <!--
