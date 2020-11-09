@@ -1,4 +1,3 @@
-![Hi, I'm Deekshita 👋 I'm a 🚀 AR Developer 🚀 I ❤️ C++ coding ❤️]
 
 
 <!--
