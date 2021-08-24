@@ -1,4 +1,4 @@
-![HEADER](https://github.com/DeekshitaV/DeekshitaV/blob/main/Blue%20and%20White%20Technology%20LinkedIn%20Banner%20(1).png)
+![HEADER](https://github.com/DeekshitaV/DeekshitaV/blob/main/LinkedIn%20Banner%20.png)
 
 <!--
 **DeekshitaV/DeekshitaV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
